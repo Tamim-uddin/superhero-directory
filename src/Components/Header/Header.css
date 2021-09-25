@@ -1,10 +1,11 @@
 .header-container{
     background-color: LightSlateGrey;
-    width: 70%;
-    padding: 20px;
+    width: 80%;
+    padding: 10px;
     border: 2px solid lightgrey;
     border-radius: 10px;
-    margin-left: 150px;
+    margin-left: 90px;
     color:white;
+    text-align: center;
     
 }
