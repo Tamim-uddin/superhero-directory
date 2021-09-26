@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Richest Person
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [My Website](https://loving-mirzakhani-8c213d.netlify.app/).
 
-## Available Scripts
+## in this project i try to exposion the
+•List of world's billionaires  
+•Their total worth of money  
+•and theire income of source & industries  
 
 In the project directory, you can run:
 
