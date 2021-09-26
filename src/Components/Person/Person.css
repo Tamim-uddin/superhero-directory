@@ -15,3 +15,10 @@
    padding-bottom: 10px;
    
 }
+.add-person{
+    background-color: CadetBlue;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: lightgrey;
+    color:whitesmoke
+}

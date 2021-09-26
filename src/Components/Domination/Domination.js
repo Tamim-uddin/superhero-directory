@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Person from '../Person/Person';
 
 import './Domination.css'
@@ -27,7 +28,7 @@ const Domination = () => {
                 }
            </div>
            <div className="cart-container">
-                <h2>Person Added: {cart.length} </h2>
+                <Cart cart={cart}></Cart>
            </div>
         </div>
     );
